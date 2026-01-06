@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quạt trần Panasonic F-60",
+    "items": [
+      { "shop": "Tiki", "price": 2890000, "url": "https://tiki.vn/..." },
+      { "shop": "Lazada", "price": 2790000, "url": "https://www.lazada.vn/..." },
+      { "shop": "Shopee", "price": 2950000, "url": "https://shopee.vn/..." }
+    ]
+  },
+  {
+    "name": "Máy lọc không khí Xiaomi",
+    "items": [
+      { "shop": "Tiki", "price": 2650000, "url": "https://tiki.vn/..." },
+      { "shop": "Shopee", "price": 2590000, "url": "https://shopee.vn/..." }
+    ]
+  }
+]
